@@ -1,2 +1,5 @@
 # pycon2016
-pycon 2016 slides and notebook
+
+Slides and notebook from the presentation "Merging Noisy Datasets".
+
+I will upload my jupyter notebook here shortly.
